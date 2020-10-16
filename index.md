@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Lonewolf313s blog
 
-I'm glad you are here. I plan to talk about ...
+This is my first github Jekyll blog
